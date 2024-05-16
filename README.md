@@ -9,7 +9,7 @@ This is my setup as of 240512.
 
 | Name | Grade | Tag |
 | ---- | ----- | --- |
-| Potential 6C | 6C | light blue |
+| [Potential 6C](/markdowns/240512_Potential_6C.md) | 6C | light blue |
 
 
 # Statistics
