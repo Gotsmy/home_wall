@@ -11,6 +11,8 @@ This is my setup as of 240512.
 | ---- | ----- | --- |
 | [Isi Cheezy](/markdowns/240512_Isi_Cheezy.md) | 6A | red |
 | [Day 1 Fun](/markdowns/240512_Day_1_Fun.md) | 6B | green |
+| [Zickzack](/markdowns/240512_Zickzack.md) | 6B | yellow |
+| [Eh Ok](/markdowns/240512_Eh_Ok.md) | 6B+ | purple |
 | [Potential 6C](/markdowns/240512_Potential_6C.md) | 6C | light blue |
 
 
