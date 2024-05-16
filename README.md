@@ -3,6 +3,15 @@ This is my setup as of 240512.
 
 ![full_wall](plots/240512_full_wall.png)
 
+
+
+# Routes
+
+| Name | Grade | Tag |
+| ---- | ----- | --- |
+| Potential 6C | 6C | light blue |
+
+
 # Statistics
 ## Wall Statistics
 
