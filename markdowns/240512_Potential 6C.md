@@ -6,5 +6,7 @@
 | Comment | |
 | Established | 240400 |
 
+![full_wall](/plots/240512_full_wall.png)
+
 ![Potential 6C](/plots/240512_Potential 6C.png)
 
