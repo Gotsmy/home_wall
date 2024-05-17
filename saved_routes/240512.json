@@ -1,1 +1,310 @@
-{"Potential 6C": {"grade": "6C", "tag": "light blue", "comment": "", "established": "240400", "start": ["6C", "5F"], "top": ["15B"], "hands": ["10F", "12C", "13G"], "feet": ["2B", "2F"], "route_id": "Potential_6C"}, "Isi Cheezy": {"grade": "6A", "tag": "red", "comment": "", "established": "240400", "start": ["4H", "4K"], "top": ["15H"], "hands": ["6K", "7G", "9K", "11H", "14I"], "feet": ["3L"], "route_id": "Isi_Cheezy"}, "Day 1 Fun": {"grade": "6B", "tag": "green", "comment": "", "established": "240400", "start": ["5B", "4D"], "top": ["14I"], "hands": ["9B", "10F", "14D"], "feet": ["5J"], "route_id": "Day_1_Fun"}, "Eh Ok": {"grade": "6B+", "tag": "purple", "comment": "", "established": "240400", "start": ["4F", "4D"], "top": ["15B"], "hands": ["9H", "11H", "11J", "13G"], "feet": ["1H", "6A"], "route_id": "Eh_Ok"}, "Zickzack": {"grade": "6B", "tag": "yellow", "comment": "", "established": "240400", "start": ["6A", "3E"], "top": ["14D"], "hands": ["7G", "8J", "11J", "12E"], "feet": ["5L"], "route_id": "Zickzack"}, "Not a 6C+": {"grade": "6B", "tag": "orange", "comment": "", "established": "240400", "start": ["4H", "2J"], "top": ["14D"], "hands": ["7L", "11H", "13K", "13G"], "feet": ["6A"], "route_id": "Not_a_6C+"}, "Isi's Antistyle": {"grade": "6B", "tag": "yellow and black stripes", "comment": "", "established": "240400", "start": ["7E"], "top": ["15E"], "hands": ["8B", "11D", "11A"], "feet": ["3C"], "route_id": "Isi_s_Antistyle"}}
+{
+    "Potential 6C": {
+        "grade": "6C",
+        "tag": "light blue",
+        "comment": "",
+        "established": "240400",
+        "start": [
+            "6C",
+            "5F"
+        ],
+        "top": [
+            "15B"
+        ],
+        "hands": [
+            "10F",
+            "12C",
+            "13G"
+        ],
+        "feet": [
+            "2B",
+            "2F"
+        ],
+        "route_id": "Potential_6C"
+    },
+    "Isi Cheezy": {
+        "grade": "6A",
+        "tag": "red",
+        "comment": "",
+        "established": "240400",
+        "start": [
+            "4H",
+            "4K"
+        ],
+        "top": [
+            "15H"
+        ],
+        "hands": [
+            "6K",
+            "7G",
+            "9K",
+            "11H",
+            "14I"
+        ],
+        "feet": [
+            "3L"
+        ],
+        "route_id": "Isi_Cheezy"
+    },
+    "Day 1 Fun": {
+        "grade": "6B",
+        "tag": "green",
+        "comment": "",
+        "established": "240400",
+        "start": [
+            "5B",
+            "4D"
+        ],
+        "top": [
+            "14I"
+        ],
+        "hands": [
+            "9B",
+            "10F",
+            "14D"
+        ],
+        "feet": [
+            "5J"
+        ],
+        "route_id": "Day_1_Fun"
+    },
+    "Eh Ok": {
+        "grade": "6B+",
+        "tag": "purple",
+        "comment": "",
+        "established": "240400",
+        "start": [
+            "4F",
+            "4D"
+        ],
+        "top": [
+            "15B"
+        ],
+        "hands": [
+            "9H",
+            "11H",
+            "11J",
+            "13G"
+        ],
+        "feet": [
+            "1H",
+            "6A"
+        ],
+        "route_id": "Eh_Ok"
+    },
+    "Zickzack": {
+        "grade": "6B",
+        "tag": "yellow",
+        "comment": "",
+        "established": "240400",
+        "start": [
+            "6A",
+            "3E"
+        ],
+        "top": [
+            "14D"
+        ],
+        "hands": [
+            "7G",
+            "8J",
+            "11J",
+            "12E"
+        ],
+        "feet": [
+            "5L"
+        ],
+        "route_id": "Zickzack"
+    },
+    "Not a 6C+": {
+        "grade": "6B",
+        "tag": "orange",
+        "comment": "",
+        "established": "240400",
+        "start": [
+            "4H",
+            "2J"
+        ],
+        "top": [
+            "14D"
+        ],
+        "hands": [
+            "7L",
+            "11H",
+            "13K",
+            "13G"
+        ],
+        "feet": [
+            "6A"
+        ],
+        "route_id": "Not_a_6C+"
+    },
+    "Isi's Antistyle": {
+        "grade": "6B",
+        "tag": "yellow and black stripes",
+        "comment": "",
+        "established": "240426",
+        "start": [
+            "7E"
+        ],
+        "top": [
+            "15E"
+        ],
+        "hands": [
+            "8B",
+            "11D",
+            "11A"
+        ],
+        "feet": [
+            "3C"
+        ],
+        "route_id": "Isi_s_Antistyle"
+    },
+    "Pinchy Pinches": {
+        "grade": "6C",
+        "tag": "red and black stripes",
+        "comment": "",
+        "established": "240427",
+        "start": [
+            "4I"
+        ],
+        "top": [
+            "15H"
+        ],
+        "hands": [
+            "7H",
+            "10K",
+            "12L",
+            "12G",
+            "15K"
+        ],
+        "feet": [
+            "2J",
+            "2F"
+        ],
+        "route_id": "Pinchy_Pinches"
+    },
+    "Hipster": {
+        "grade": "6C",
+        "tag": "green and black bar",
+        "comment": "use all hand holds",
+        "established": "240427",
+        "start": [
+            "8B"
+        ],
+        "top": [
+            "15H"
+        ],
+        "hands": [
+            "6C",
+            "7E",
+            "7H",
+            "7K",
+            "10K",
+            "12L",
+            "12G",
+            "15K"
+        ],
+        "feet": [
+            "5G",
+            "3L"
+        ],
+        "route_id": "Hipster"
+    },
+    "Miasi's Antistyle": {
+        "grade": "6B-",
+        "tag": "orange and black dot",
+        "comment": "start with crossed arms",
+        "established": "240427",
+        "start": [
+            "4K",
+            "2L"
+        ],
+        "top": [
+            "15B"
+        ],
+        "hands": [
+            "7H",
+            "7K",
+            "9H",
+            "8D",
+            "12E",
+            "11A"
+        ],
+        "feet": [
+            "5E",
+            "4A"
+        ],
+        "route_id": "Miasi_s_Antistyle"
+    },
+    "Hooked": {
+        "grade": "6B+",
+        "tag": "dark blue",
+        "comment": "top only with toe/heel hook on 10A",
+        "established": "240427",
+        "start": [
+            "10K"
+        ],
+        "top": [
+            "15H"
+        ],
+        "hands": [
+            "8G",
+            "8D",
+            "11A",
+            "15E"
+        ],
+        "feet": [
+            "4A"
+        ],
+        "route_id": "Hooked"
+    },
+    "Samstagnachmittag": {
+        "grade": "6B",
+        "tag": "blue and black stripes",
+        "comment": "kickboard only for start position",
+        "established": "240512",
+        "start": [
+            "5H",
+            "2L"
+        ],
+        "top": [
+            "15B"
+        ],
+        "hands": [
+            "10I",
+            "9F",
+            "11C",
+            "13B"
+        ],
+        "feet": [
+            "3G",
+            "3C"
+        ],
+        "route_id": "Samstagnachmittag"
+    },
+    "Blaurot": {
+        "grade": "6B",
+        "tag": "green and black stripes",
+        "comment": "feet only on holds marked as F (or kickboard)",
+        "established": "240512",
+        "start": [
+            "5F",
+            "5J"
+        ],
+        "top": [
+            "15K"
+        ],
+        "hands": [
+            "6D",
+            "9D",
+            "12D",
+            "12I",
+            "15K"
+        ],
+        "feet": [
+            "1C",
+            "8G"
+        ],
+        "route_id": "Blaurot"
+    }
+}

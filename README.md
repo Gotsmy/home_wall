@@ -14,8 +14,14 @@ This is my setup as of 240512.
 | [Zickzack](/markdowns/240512_Zickzack.md) | 6B | yellow |
 | [Not a 6C+](/markdowns/240512_Not_a_6C+.md) | 6B | orange |
 | [Isi's Antistyle](/markdowns/240512_Isi_s_Antistyle.md) | 6B | yellow and black stripes |
+| [Samstagnachmittag](/markdowns/240512_Samstagnachmittag.md) | 6B | blue and black stripes |
+| [Blaurot](/markdowns/240512_Blaurot.md) | 6B | green and black stripes |
 | [Eh Ok](/markdowns/240512_Eh_Ok.md) | 6B+ | purple |
+| [Hooked](/markdowns/240512_Hooked.md) | 6B+ | dark blue |
+| [Miasi's Antistyle](/markdowns/240512_Miasi_s_Antistyle.md) | 6B- | orange and black dot |
 | [Potential 6C](/markdowns/240512_Potential_6C.md) | 6C | light blue |
+| [Pinchy Pinches](/markdowns/240512_Pinchy_Pinches.md) | 6C | red and black stripes |
+| [Hipster](/markdowns/240512_Hipster.md) | 6C | green and black bar |
 
 
 # Statistics
